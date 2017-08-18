@@ -1,2 +1,1 @@
-# oracle-java
-Oracle Java Binaries
+# Oracle Java Binaries
