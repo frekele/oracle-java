@@ -8,4 +8,4 @@
 [http://download.oracle.com/otn-pub/java/jdk/]: http://download.oracle.com/otn-pub/java/jdk/
 [docker-java]: https://github.com/frekele/docker-java
 
-- http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+- http://www.oracle.com/technetwork/java/javase/downloads/index.html
